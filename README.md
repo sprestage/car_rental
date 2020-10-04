@@ -2,6 +2,22 @@
 
 # car_rental
 
+- [x] create rails app
+- [x] create github repo for new app
+- [x] identify my username on codeanywhere, whoami
+- [x] change from sqlite to postgres
+- [x] deploy to heroku
+- [x] create draft of front page
+- [ ] translate front page to spanish
+- [ ] set up internationalization with spanish as default
+
+
+
+Orquídeas Car Rental
+Avenida Oeste
+Boquete, Chiriquí, Panamá
+
+Welcome to Boquete!
 
 Foreign or Panamanian. Local or traveler.  We at Orquídeas Car Rental are here to serve.  Our vehicles are 3-5 years old with continuous maintenance.  Orquídeas is here to provide you with a car you can rely on.  For the traveler, there is a bus stop within sight of our facility.  We have refreshments and a bathroom available as well as internet and connections to recharge your devices.  Orquídeas is here to welcome you and your travelling companions to Boquete and share our hospitality with you while providing you with the means to explore this beautiful region with the personal freedom.
 
