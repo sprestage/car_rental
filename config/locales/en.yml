@@ -34,6 +34,11 @@ en:
   hello_world: Hello world!
   hello_flash: Hello flash!
   
+  welcome_to_boquete: Welcome to Boquete!
+
+  
+  orquideas_intro: Foreign or Panamanian. Local or traveler. We at Orquídeas Car Rental are here to serve. Our vehicles are 3-5 years old with continuous maintenance. Orquídeas is here to provide you with a car you can rely on. For the traveler, there is a bus stop within sight of our facility. We have refreshments and a bathroom available as well as internet and connections to recharge your devices. Orquídeas is here to welcome you and your travelling companions to Boquete and share our hospitality with you while providing you with the means to explore this beautiful region with the personal freedom.
+  
   activerecord:
     errors:
       messages:

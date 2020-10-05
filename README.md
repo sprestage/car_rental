@@ -7,9 +7,9 @@
 - [x] identify my username on codeanywhere, whoami
 - [x] change from sqlite to postgres
 - [x] deploy to heroku
+- [x] set up internationalization with spanish as default
 - [x] create draft of front page
-- [ ] translate front page to spanish
-- [ ] set up internationalization with spanish as default
+- [x] translate front page to spanish
 
 
 

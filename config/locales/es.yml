@@ -3,6 +3,10 @@ es:
   hello_world: Hola Mundo
   hello_flash: Hola Flash
   
+  welcome_to_boquete: ¡Bienvenido a Boquete!
+  
+  orquideas_intro: En Orquídeas Car Rental estamos para servir. Nuestros vehículos tienen entre 3 y 5 años con mantenimiento continuo. Orquídeas está aquí para brindarle un automóvil en el que pueda confiar. Para el viajero, hay un parada de autobús a la vista de nuestras instalaciones. Contamos con refrigerios y un baño disponible, así como internet y conexión. ns para recargar sus dispositivos. Orquídeas está aquí para darle la bienvenida a usted y a sus compañeros de viaje a Boquete y compartir nuestra hospitalidad con usted mientras le proporciona los medios para explorar esta hermosa región con la libertad personal.
+  
   activerecord:
     errors:
       messages:
