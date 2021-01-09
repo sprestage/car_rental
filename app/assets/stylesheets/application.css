@@ -20,3 +20,38 @@
    margin-right: 1em;
    overflow: hidden;
  }
+
+ .center {
+   text-align: center;
+ }
+
+ .clear_div{
+   height: 0;
+   line-height: 0;
+   display: block;
+   clear: both;
+}
+ .copyright_notice{
+   font-size: 67%;
+}
+
+MY_H1 {
+  font-size:300%; font-weight:bold
+}
+
+MY_H2 {
+  font-size:400%; font-weight:bold
+}
+
+MY_H3 {
+  font-size:200%
+}
+
+MY_H4 {
+  font-weight:bold
+}
+
+MY_H5 {
+  font-size:200%;
+  color:#B30D0D
+}
