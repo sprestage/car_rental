@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CarRental</title>
+    <title>Orquídeas Car Rentals</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -10,8 +10,13 @@
   </head>
 
   <body>
+    <%= render 'layouts/navbar' %>
+    <div class='clear_div'></div>
 
     <%= render 'layouts/language_selector' %>
+
+
+    <%= render 'layouts/navbar' %>
 
     <%= yield %>
   </body>
