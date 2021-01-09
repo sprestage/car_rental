@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ .language_selector {
+   float: right;
+   margin: 0.5em;
+   margin-right: 1em;
+   overflow: hidden;
+ }
