@@ -14,7 +14,17 @@
  *= require_self
  */
 
- .language_selector {
+ body {
+  background: url(ranchPic1_experiment2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: Georgia, 'Times New Roman', 'Times Roman', Times, Roman, serif;
+}
+
+
+.language_selector {
    float: right;
    margin: 0.5em;
    margin-right: 1em;
