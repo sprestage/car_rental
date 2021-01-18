@@ -14,7 +14,7 @@
  *= require_self
  */
 
- body {
+body.homepage {
   background: url(ranchPic1_experiment2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -22,6 +22,11 @@
 
   font-family: Georgia, 'Times New Roman', 'Times Roman', Times, Roman, serif;
 }
+
+body {
+  font-family: Georgia, 'Times New Roman', 'Times Roman', Times, Roman, serif;
+}
+
 
 
 .language_selector {
